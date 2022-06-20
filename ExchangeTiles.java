@@ -1,3 +1,5 @@
+// CREDIT TO DR. PETER DRAKE
+
 /** Exchanging 0 or more tiles. */
 public class ExchangeTiles implements ScrabbleMove {
 
