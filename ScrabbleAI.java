@@ -1,3 +1,5 @@
+// CREDIT TO DR. PETER DRAKE
+
 /**
  * Player that can choose moves for Scrabble.
  */
