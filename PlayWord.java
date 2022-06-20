@@ -1,3 +1,5 @@
+// CREDIT TO DR. PETER DRAKE
+
 /** Playing one or more tiles on the board. */
 public class PlayWord implements ScrabbleMove {
 
