@@ -1,3 +1,5 @@
+// CREDIT TO DR. PETER DRAKE
+
 /**
  * Baseline Gerrymanderer that divides the electorate into vertical stripes (when gerrymandering for the purple party)
  * or horizontal stripes (when gerrymandering for the yellow party).
