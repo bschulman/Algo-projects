@@ -1,3 +1,5 @@
+// CREDIT TO DR. PETER DRAKE
+
 /** A tournament between ScrabbleAIs. Edit the constructor to change the contestants. */
 public class ScrabbleTournament {
 
