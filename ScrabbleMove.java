@@ -1,3 +1,5 @@
+// CREDIT TO DR. PETER DRAKE
+
 /** A move played by a ScrabbleAI. Used mainly as the return type of ScrabbleAI.chooseMove(). */
 public interface ScrabbleMove {
 
