@@ -1,3 +1,5 @@
+// CREDIT TO DR. PETER DRAKE
+
 /**
  * Measures the effectiveness of a gerrymandering algorithm. Prints a single number between -1.0 and 1.0,
  * where 1.0 means the algorithm consistently wins every single district and -1.0 means that it consistently
