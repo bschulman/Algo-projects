@@ -1,3 +1,5 @@
+// BY BEN SCHULMAN, ZACH DWORKIN, AND ALEX LOTERO
+
 import java.util.Arrays;
 
 public class Gerrymandering implements Gerrymanderer {
